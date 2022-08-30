@@ -1,9 +1,0 @@
-{
-  "main": "index.js",
-  "dependencies": {
-    "discord.js": "11.4.2",
-    "express": "^4.17.1",
-    "ffmpeg": "0.0.4",
-    "ping-monitor": "^0.6.1"
-  }
-}
